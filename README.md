@@ -121,8 +121,6 @@ python scripts/visualize_rdf.py
 └── requirements.txt          # Dependencies list
 ```
 
-**Note**: Scripts with `_fixed` suffix represent the final, production versions used in the actual research. Other numbered versions (e.g., `_1.py`, `_2.py`) were development iterations and are excluded from the repository.
-
 ## Key Results
 
 ### 1. Concept Analysis
@@ -174,11 +172,5 @@ python scripts/visualize_rdf.py
 - Code is designed to be generalizable
 - Detailed parameter settings are documented
 
-## Contributing
-
-1. Fork this repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## License
 
