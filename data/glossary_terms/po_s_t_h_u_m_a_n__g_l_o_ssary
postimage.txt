@@ -1,0 +1,94 @@
+PO S T H U M A N  G L O SSARY
+POSTIMAGE
+
+speciﬁ c data related to, for instance, 
+motion, form or color ( Jenkin and Harris 
+2009 ). If the cortical areas are over lap ping/
+inter act ing, at no point of this compu ta-
+tion of visual data are there ‘stable visual 
+entit ies’. 
+ With the concept of ‘image’ dissolv ing 
+under the assault of neur os cientiﬁ c discov-
+er ies and advances in machine vision, there 
+are only two possible responses by image 
+theory: either to abandon the concept (and 
+thus the discip line) or to radic ally enlarge 
+its deﬁ n i tion/scope. Consider the second 
+option and a very large deﬁ n i tion of the 
+image as the rela tion of data and of 
+algorithms that are engaged in an oper a tion, 
+which involves visual data or data visu al iz a-
+tion. Let us examine this new deﬁ n i tion of 
+the image in the light of robot vision. 
+Robots, remotely controlled or autonom ous, 
+make use of images and imaging at many 
+levels: at the level of orient a tion/navig a tion, 
+at the level of survey and mapping, and at 
+the level of data integ ra tion and visu al iz a-
+tion.  SLAM  (Simultaneous Localization 
+and Mapping), for instance, allows the 
+gener a tion of a map of unknown territ ory 
+using odometry (posi tion estim a tion using 
+motion sensors), laser scan ning and sonar 
+sensors. Hyperspectral Imaging captures a 
+much larger visual spec trum than tradi-
+tional optical instru ments; it allows the 
+build ing of an image consti tuted of as many 
+layers as frequency bands and thus, the 
+char ac ter iz a tion/clas si ﬁ c a tion of the objects 
+in the scene based on their spec tral prop er-
+ties. Multisensor Data Fusion allows the 
+merging of data captured by diﬀ er ent 
+sensors or agents of a given system, and 
+Distributed Consensus Algorithms enable 
+decisions to be reached among collab or at-
+ing vehicles oper at ing on the ground, in 
+the air, on the water, under wa ter or even 
+in space. 
+ In short: the robot’s eye is a complex 
+inter play of sensors, sensor data, control 
+ POSTIMAGE  
+ Digitalization has brought a new dimen-
+sion to the ‘photo graphic paradigm of the 
+image’ ( Hoelzl and Marie 2015 ) which was 
+forged in the ﬁ ft eenth century with the 
+inven tion of linear perspect ive and resul-
+ted in the forced conver gence of vision and 
+repres ent a tion based on the hypo thesis of 
+their commen sur ab il ity. On today’s digital 
+screens, that is, on the level of visual 
+percep tion, the photo graphic paradigm 
+seems to remain intact, but behind the 
+screen, on the compu ta tional level, the 
+power ful algorithms that under lie today’s 
+image processing and display – such as the 
+ones used to smoothly navig ate distant 
+Google Street View panor a mas or the 
+ubiquit ous  JPEG decom pres sion codec – 
+impose a new, ‘algorithmic paradigm of the 
+image’ (ibid.). 
+ Behind the on- screen illu sion of a 
+‘hardim age’ – a solid repres ent a tion of a 
+solid world – the algorithmic image that I 
+call ‘soft im age’ is not only malle able, i.e. 
+inﬁ n itely recom put able, but is itself 
+program (or part of a program). In fact, the 
+algorithmic paradigm brings with it the 
+scat ter ing of both image and vision into a 
+multi pli city of data. Th is becomes evident 
+in the current devel op ments of machine 
+vision, where imaging is neces sary to carry 
+out an action (think of assembly robots, 
+drones, self- driving cars, auto matic border 
+controls etc.) and where video cameras are 
+asso ci ated to other sensors. Th ese sensors 
+furnish various data (visuals, sound, heat, 
+move ment, biomet rics etc.) that need to be 
+processed, correl ated, fused and matched 
+with a data base, before human control lers 
+(or the control program of autonom ous 
+machines/systems) can take a decision/
+action. Likewise, in current neur os cientiﬁ c 
+research, human vision is modelled as a 
+process taking place along special ized 
+cortical areas, with each area comput ing

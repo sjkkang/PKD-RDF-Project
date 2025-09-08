@@ -1,0 +1,102 @@
+PO S T H U M A N  G L O SSARY
+NOISE
+
+Abductive infer ence and heur ist ics oﬀ er 
+‘fast and frugal’ solu tions for the navig a-
+tion of noisy envir on ments ( Bechtel and 
+Richardson 2010 ). Th e extreme eﬀ ect ive-
+ness of the non- mono tonic char ac ter of 
+abduc tion in cognit ive systems is based 
+on the long evol u tion ary devel op ment of 
+intel li gence, and its error- toler ance or resi-
+li ence to noise is not as yet replic able by 
+algorithmic proced ures or arti ﬁ  cial intel li-
+gence ( Magnani 2009 ). 
+ Noise is gener ally deemed an imped i-
+ment to success ful inter pret a tion of data, 
+and attempts are made to reduce or cancel 
+it. However, it is just as oft en sought out as 
+signi ﬁ c ant in its own right. Th is is partic u-
+larly evident in science, where the pres ence 
+of noise may be an import ant indic a tion of 
+the theor et ical incon sist en cies and prac-
+tical deﬁ  cien cies of the invest ig a tion or 
+proced ure. Th ere is a wide range of 
+examples where noise is purpose fully 
+incor por ated into the system as a bene ﬁ -
+cial eﬀ ect or as a func tional aspect of its 
+oper a tion. For example, sens it iv ity to 
+signal detec tion can be increased by the 
+addi tion of a certain quant ity of noise. 
+ Both 
+conscious 
+and 
+uncon scious 
+processes are much better equipped for 
+noti cing devi ations from the regu lar ity of 
+patterns than they are for plot ting all its 
+details. If patterns are regu lar it ies that the 
+organ ism is habitu ated to, then it is to 
+ perturb a tions  of this regu lar ity that its 
+atten tion is direc ted, and that its uncon-
+scious neuro- compu ta tional mech an isms 
+are primed for anomaly detec tion ( Bouwer 
+and Honing 2012 ). Th e pattern- governed 
+organ ism is primed to react to noise. Th is 
+is evident in tests on audit ory pattern 
+resol u tion in f MRI scans, showing neur-
+onal 
+activ a tion 
+poten tial 
+spikes, 
+or 
+‘mismatch negat iv ity’ responses, to highly 
+complex patterns ( Näätänena 1990 ). 
+ Whether a highly compressed descrip-
+tion with a high noise ratio is better than a 
+less compact descrip tion that is more error 
+toler ant is relat ive to the prag matic situ-
+ation, and this depends on the speed at 
+which pattern recog ni tion is required, the 
+risks asso ci ated with failure, and to cognit-
+ive resource alloc a tion prob lems in general. 
+In eﬀ ect, the sensory exper i ence of biolo-
+gical organ isms is a highly evolved mech-
+an ism for pattern recog ni tion whose lossy 
+compres sion rate allows for a signi ﬁ c ant 
+quant ity of noise. Th e payoﬀ  is a reduc tion 
+in cognit ive processing cost allow ing for 
+rapid response times. 
+ Th e concept of noise is related to the 
+caus a tion- correl a tion problem in stat ist-
+ical prob ab il ity. Variables that are correl-
+ated appear as a signal of their causal 
+connec tion. When a causal connec tion is 
+inferred but the correl a tion is merely 
+contin gent then the infer ence is a false 
+posit ive: what was taken for signal was, in 
+fact, noise. Conversely, correl ated vari ables 
+may be taken to be only contin gently 
+related and ignored as noise. In such a case, 
+if in fact there is a causal connec tion then 
+what was under stood as noise was actu ally 
+signal; a false negat ive. 
+ Th e discrim in a tion between signal and 
+noise can be modelled accord ing to the 
+Bayesian calib ra tion of a decision criterion 
+on a prob ab il ity distri bu tion, known in 
+signal detec tion theory as the ‘receiver 
+oper at ing char ac ter istic’ ( Proust 2013 ). 
+Th e discov ery of patterns in random audit-
+ory or visual noise is a phenomenon called 
+pareido lia, which is part of a wider class of 
+prob ab il ity estim a tion falla cies called 
+apophenia (includ ing the gambler’s fallacy, 
+over ﬁ t ting of stat ist ics, etc.). 
+ Some theor ists have applied the 
+concep tion of noise to the analysis of 
+complex adapt ive systems such as evol u-
+tion ary ecolo gies and ﬁ nan cial markets. 
+However, it can be argued that random-
+ness is such an intrinsic part of the func-
+tional organ iz a tion of such systems that it

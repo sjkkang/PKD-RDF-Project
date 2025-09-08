@@ -1,0 +1,13 @@
+@prefix ns1: <http://example.org/posthuman#> .
+
+ns1:Animal_Ethics ns1:criticizes ns1:Posthumanism ;
+    ns1:isMentionedIn ns1:cCary_Wolfe__What_Is_Posthumanism,
+        ns1:cChiewPosthuman_ethics_wolfe_and_barad ;
+    ns1:relatedTo ns1:Animal_Ethics .
+
+ns1:Posthumanism ns1:isMentionedIn ns1:cChiewPosthuman_ethics_wolfe_and_barad,
+        ns1:cHeiseThe_Android_and_the_Animal,
+        ns1:cHorsfieldBorders_in_the_Anthropocene,
+        ns1:cN_Katherine_Hayles__How_We_Became_Posthuman,
+        ns1:cRandoNonhuman_Animals_and_Hope .
+

@@ -1,0 +1,90 @@
+PO S T H U M A N  G L O SSARY
+OBSOLETE TECHNOLOGIES
+
+classed and gendered schemes of clas si ﬁ c a-
+tion. Th e values embed ded in tech no lo gical 
+design reﬂ ect exclu sion ary norm at ive 
+ideals about such subjectiv ity, and so in this 
+entry we develop an account of obsol ete 
+tech no lo gies from the perspect ive of femin-
+ist science and tech no logy studies in order 
+to link the concept of the posthu man with 
+the unprob lem at ized and oft en celeb rated 
+social death of various tech no lo gies. 
+Speciﬁ c arte facts considered fall under 
+three broad categor ies: 1) planned obsol es-
+cence, e.g. Apple’s hard ware and soft  ware; 
+2) celeb rated inven tions that never became 
+widely adopted, e.g. Google Glass; and 3) 
+mass tech no lo gical fads that quickly died 
+out, e.g. the  XO  laptop. In each of these, 
+obsol es cence serves as a rupture that opens 
+up onto the ideo lo gical substrates of design 
+while also inform ing our imagin ar ies of the 
+posthu man. 
+ Most connec ted to economic rather 
+than tech nical constraints, the concept of 
+planned obsol es cence became common-
+place in modern  US industry through out 
+the twen ti eth century, espe cially in the 
+postwar years as a means of accel er at ing 
+consumer demand ( Cohen 2003 : 293). 
+Despite critiques of planned obsol es cence 
+that high lighted the arti ﬁ  ci al ity of such 
+demand and its attend ant waste ful ness (e.g. 
+ Packard 1960 ), both obsol es cence in terms 
+of the desirab il ity or cool ness of a product 
+as well as obsol es cence in terms of its 
+lifespan or func tion al ity continue to be 
+used in contem por ary indus trial design of 
+consumer goods. One of the more notori-
+ous ﬁ rms in this regard is Apple, the 
+company at the vanguard of port able tech-
+no lo gies that construct and market posthu-
+man ism as a mass phenomenon. In order 
+to main tain demand levels for its products, 
+which satur ate the market, Apple engages 
+in planned obsol es cence at the func tional 
+level through the rela tion ship between 
+hard ware and soft  ware upgrades. Each 
+ See also Animism; Neo/New Materialism; 
+Posthuman Critical Th eory; Ontological 
+Turn; Speculative Posthumanism. 
+ Peter Wolfendale 
+ OBSOLETE TECHNOLOGIES  
+ How and why do tech no lo gies die? Why 
+have users come to accept the short lifespan 
+of hard ware and soft  ware? Technological 
+obsol es cence prompts the ques tion of how 
+tech no lo gies, as socio- tech nical assemblages, 
+grow less relev ant – a ques tion that becomes 
+increas ingly import ant as tech no lo gical life-
+cycles seem to speed up accord ing to the 
+logics of expo nen tial progress. Moore’s law, 
+for example, posits that comput ing power 
+doubles roughly every two years, imply ing 
+a continual accel er a tion of tech no lo gical 
+obsol es cence. But obsol es cence in prac tice 
+outstrips such a determ in istic reduc tion, 
+espe cially since it is oft en expli citly designed 
+into tech no lo gical arte facts as an economic 
+imper at ive of accel er ated consump tion. 
+ Illustratively, as a result of excess ive 
+consump tion, the global quant ity of elec-
+tronic waste (e- waste) produced in 2014 
+was 41.8 million tons, only 6.5 million of 
+which was collec ted by oﬃ   cial take- back 
+chan nels in nations across the Global North 
+( Baldé et  al. 2015 : 20–5). Th e remain ing 
+ﬂ ow of e- waste is processed in informal, 
+unsafe and envir on ment ally unpro tec ted 
+settings, largely across loca tions in the 
+Global South ( LeBel 2012 ). 
+ Analyses of planned obsol es cence thus 
+oﬀ er a broader critique of consumer society 
+that posi tion our desire for the new within 
+a series of late capit al ist power dynam ics 
+that shape contem por ary subjectiv ity. Th e 
+new is deﬁ ned against slower, dumber, 
+back ward, dirtier, noisier and/or uncool 
+tech no lo gies which oft en reﬂ ect racial ized,

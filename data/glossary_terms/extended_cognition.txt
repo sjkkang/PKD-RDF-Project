@@ -1,0 +1,190 @@
+EXTENDED COGNITION
+
+( Clark and Chalmers 1998 ). Th is stand-
+point is that of active exter n al ism and 
+reson ates with theor ies of embod ied (e.g. 
+ Wilson and Foglia 2016 ), embed ded 
+( Suchman 1987 ;  Hutchins 1995 ), enact ive 
+( Varela, Th ompson and Rosch 1991 ) and 
+situ ated cogni tion ( Smith 1999 ;  Robbins 
+and Aydede 2009 ). Such a view of cogni-
+tion not only has implic a tions for research 
+in cognit ive science, robot ics and arti ﬁ  cial 
+intel li gence but also chal lenges indi vidu al-
+istic under stand ing of cogni tion as taking 
+place exclus ively in the brain or even 
+brain- body. To an extent that this model 
+blurs the bound ar ies between tech nical 
+objects and human agents in the domain 
+of cogni tion, the exten ded mind thesis also 
+ques tions the human excep tion al ism and 
+anthro po centrism inher ent in more tradi-
+tional cognit ive sciences. 
+ Th e exten ded mind thesis was intro-
+duced by Andy Clark and David Chalmers 
+in their article ‘Th e Extended Mind’ in 
+1998. In their essay they propose that reli-
+ance on envir on mental support in some 
+cases produces ‘epistemic actions’: actions 
+that alter the world so as to aid and 
+augment cogni tion ( Clark and Chalmers 
+1998 ). Th is leads them to propose that 
+such actions should also deserve epistemic 
+credit: ‘if, as we confront some task, a part 
+of the world func tions as a process which, 
+ were it done in the head , we would have 
+no hesit a tion in recog niz ing as part of the 
+cognit ive process, then that part of the 
+world  is . . . part of the cognit ive process’ 
+(ibid.: 8). Th e latter is also what was coined 
+as the ‘parity prin ciple’, which helps deﬁ ne 
+when cogni tion is exten ded. Such exten-
+ded minds are, in fact, cognit ive systems, 
+where all elements play an active causal 
+role, 
+continu ously 
+inﬂ u en cing 
+and 
+respond ing to one another and thus 
+coordin at ing to produce beha viour ( Clark 
+1997 ). 
+ Clark and Chalmer’s essay consti tutes 
+the basis of what is called the ‘ﬁ rst wave’ of 
+argu ments for  EC , mostly based on the 
+above- mentioned parity prin ciple ( Menary 
+2010 ). Th e second wave of argu ments is 
+developed in closer orient a tion to empir-
+ical and enact ive approaches (see, for 
+instance,  Sutton 2010 ;  Menary 2007 and 
+ 2010 ; 
+ Wilson 
+2010 ; 
+ Wheeler 
+2010 ; 
+ Malafouris 
+2013 ). 
+Second- wave 
+ EC 
+thinkers high light that external elements 
+and processes can diﬀ er dramat ic ally from 
+internal ones ( Sutton 2010 ), and this diﬀ er-
+ence is, in fact, required in order for 
+‘external’ and ‘internal’ compon ents of the 
+cognit ive process to be comple ment ary 
+( Rowlands 2010a ) and integ rated into the 
+cognit ive system ( Menary 2010 ). Finally, a 
+third wave of argu ments is emer ging as 
+well, focus sing on what Sutton calls ‘a 
+deter rit ori al ized cognit ive science’ ( Sutton 
+2010 ,  2013 ) that goes beyond the bound ar-
+ies of biolo gical organ ism and deals rather 
+with cognit ive assem blies in which none of 
+the elements have analyt ical prior ity, as 
+well as with ques tions of trans form a tion 
+that occurs due to processes of exten sion 
+and coup ling ( Kirchhoﬀ  2012 ). 
+ One of the tradi tional lines of critique 
+towards  EC is based on the claim that  EC 
+performs a coup ling- consti tu tion fallacy: 
+the fact that agents rely on certain external 
+objects for cognit ive purposes, thus being in 
+eﬀ ect cognit ively coupled with the object, 
+does not mean that the object in ques tion 
+consti tutes a part of the agent’s cognit ive 
+appar atus (see, for instance,  Adams and 
+Aizawa 2008 ,  2010 ). While this and similar 
+critiques imply prior it iz ing clear bound ar-
+ies of cogni tion and clear indic a tion of 
+cognit ive agents, other crit ical voices 
+suggest that  EC does not go far enough in 
+dethron ing the biolo gic ally delin eated 
+human as the main agent of cogni tion. 
+For instance, Di Paolo ( 2009 ) proposes 
+that in order to do away with biolo gical
+chau vin ism and human- centred ness, an 
+auto poi etic enact iv ist account of cogni tion 
+is needed that would posi tion cogni tion 
+as a rela tional phenomenon that emerges 
+between autopoi etic systems and their 
+inter ac tions with envir on ment. In this way 
+a non- species-speciﬁ c deﬁ n i tion of cogni-
+tion, agency and medi ation could be 
+developed that does not completely deny 
+the exten ded mind thesis. Kirchhoﬀ  ( 2012 ) 
+also suggests that  EC should be pushed 
+towards a deter rit ori al ized cognit ive science 
+that dissolves the indi vidual and displaces 
+agency, instead of marking it as an indi-
+vidual (human?) prop erty. Th e ques tion of 
+agency was also taken up by theor ists such 
+as Wheeler, who asks what happens when 
+tech no lo gies that are part of our cognit ive 
+appar atus start exhib it ing agency them-
+selves (see, for instance,  Wheeler 2011 ). All 
+in all,  EC theory is import ant not only 
+for cognit ive science and its methods 
+(Should the object of study be indi vidual 
+agents or cognit ive systems? Should we 
+consider conscious ness as exten ded? See, 
+for instance,  Rowlands 2010a ,  2010b on 
+this ques tion) but also opens up new direc-
+tions in arti ﬁ  cial intel li gence and robot ics 
+research (via focus on inter act ive learn ing 
+and react ive or beha viour- based robot ics; 
+see  Brooks 2002 on the latter). 
+ See also Artiﬁ cial Intelligence; Execution; 
+Plasticity; Neocybernetics; Robophilosophy. 
+ Goda Klumbytė 
+ EXTINCTION  
+ Extinction is at once the most human and 
+the most inhuman of concepts. Th e very 
+possib il ity of this contrary tend ency is the 
+hall mark of our most fragile and most 
+robust present. Th e twenty- ﬁ rst century is 
+at one and the same time marked by a 
+sense of impend ing human extinc tion 
+(both liter ally, with the biolo gical species 
+coming to an end, and ﬁ gur at ively, with all 
+that passes itself oﬀ  as human facing anni-
+hil a tion by way of tech no lo gical, ecolo gical 
+and polit ical cata strophe);  and  at the same 
+time human ity has declared itself to be a 
+geolo gical force with the power and will to 
+recog nize and reverse the changes it has 
+made to the Earth as a living system. In 
+what follows I outline three artic u la tions 
+of the concept of extinc tion, all of which 
+are inex tric ably inter twined with the 
+problem of the human. 
+ First, and most obvi ously, extinc tion 
+announces itself today as the sixth great 
+mass extinc tion. Humans are at once 
+threatened by this mass extinc tion event at 
+the same time as they contrib ute to the 
+accel er a tion of this extinc tion, and have 
+done so since the earli est days of human 
+migra tion ( Diamond 1989 ). Th e current 
+era of intense anthro po genic climate 
+change, along with the declar a tion of the 
+Anthropocene, seems to have enabled a 
+shift  in degree that has ulti mately gener-
+ated a diﬀ er ence in kind. Extinction may 
+have been as much a part of life as growth, 
+decay, muta tion and prolif er a tion, but it 
+may also be that extinc tion reaches a 
+threshold and rate that gener ates a new 
+dynamic between life and loss. ‘Mass 
+extinc tion’ far exceeds the ‘back ground 
+rate’ of the ebb and ﬂ ow of life’s creation 
+and destruc tion but there are never the less 
+diﬀ er ent ways one can mark the threshold 
+between extinc tion as part of the dynam ics 
+of life, and massive losses of species and 
+biod iversity ( Wang 2003 ). 
+ Extinction is as natural and inev it able 
+as emer gence, but it may be that when 
+extinc tion can be witnessed from within 
+‘a’ life that this aspect of exist ence opens a 
+new way of prob lem at iz ing the limits of 
+think ing and what it might mean to mourn 
+or save a form of life. Having emerged

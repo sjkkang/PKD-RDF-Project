@@ -1,0 +1,13 @@
+Character,Relation,Concept,Count
+Deckard,strugglesWith,httpexampleorgposthumanFeminist Ethics,1
+Deckard,linkedTo,httpexampleorgposthumanPosthumanism,1
+Deckard,linkedTo,httpexampleorgposthumanCybernetic Enhancement,1
+Isidore,questions,httpexampleorgposthumanFeminist Ethics,1
+Isidore,linkedTo,httpexampleorgposthumanPosthuman Ethics,1
+Isidore,questions,httpexampleorgposthumanAnimal Ethics,1
+Luba_Luft,linkedTo,httpexampleorgposthumanCyborg Theory,2
+Luba_Luft,questions,httpexampleorgposthumanCyborg Theory,2
+Luba_Luft,strugglesWith,httpexampleorgposthumanPostAnthropocentrism,1
+Rachael,linkedTo,httpexampleorgposthumanCyborg Theory,4
+Rachael,questions,httpexampleorgposthumanCyborg Theory,3
+Rachael,strugglesWith,httpexampleorgposthumanCyborg Theory,3

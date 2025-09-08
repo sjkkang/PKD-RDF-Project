@@ -1,0 +1,34 @@
+# Copyrighted original text files
+data/c-*.txt
+data/primary_text.txt
+
+# Research paper PDF (excluded for copyright protection)
+*.pdf
+
+# System files
+.DS_Store
+.conda/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE configuration files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Model files (large size, difficult to manage without Git LFS)
+models/posthuman_finetuned/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment configuration
+.env
+venv/
+env/

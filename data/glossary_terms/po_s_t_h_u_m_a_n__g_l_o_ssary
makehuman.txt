@@ -1,0 +1,114 @@
+PO S T H U M A N  G L O SSARY
+MAKEHUMAN
+
+8. 
+A code comment in  model ing_modi ﬁ  ers_
+desc.json , a ﬁ le that deﬁ nes the modi ﬁ c a-
+tions oper ated by the sliders, explains that 
+‘Proportions of the human features, oft en 
+subject ively referred to as qual it ies of 
+beauty (min is unusual, center posi tion is 
+average and max is ideal istic propor tions)’, 
+ https://bitbucket.org/MakeHuman/
+make hu man (version 1.0.2) [accessed 
+18 April 2017].   
+ 9.  human mod i ﬁ erclass.py , a ﬁ le that holds 
+the various soft  ware- classes to deﬁ ne 
+body 
+shapes, 
+limits 
+the 
+‘Ethnic
+Modiﬁ er(MacroModiﬁ er) class’ to three 
+racial 
+para met ers, 
+together 
+always 
+making up a complete set: ‘# We assume 
+there to be only 3 ethnic modi ﬁ  ers. self._
+defaultValue = 1.0/3’,  https://bitbucket.
+org/MakeHuman/make hu man (version 
+1.0.2) [accessed 18 April 2017].  
+   10. In response to a user suggest ing making 
+the sliders more expli cit (‘It really does not 
+really make any sense for a char ac ter to be 
+anything other than 100% male or female, 
+but then again its more appear ance based 
+than actual sex.’), developer Manuel 
+Bastioni responds that it is ‘not easy’: ‘For 
+example, weight = 0.5 is not a ﬁ xed value. 
+It depends by the age, the gender, the 
+percent age of muscle and fat, and the 
+height. If you are making an adult giant, 
+8 ft , fully muscu lar, your 0.5 weight is X . . . 
+In other words, it’s not linear’,  http://
+bugtracker.make hu man com munity.org/
+issues/489 [accessed 18 April 2017].  
+   11. MakeHuman is developed in Python, a 
+program ming language that is relat ively 
+access ible for non- tech nical users and 
+does not require compil a tion aft er 
+changes to the program are made. 
+   12. When the program starts up, a warning 
+message is displayed that ‘MakeHuman 
+is a char ac ter creation suite. It is designed 
+for making anatom ic ally correct humans. 
+Parts of this program may contain 
+nudity. Do you want to proceed?’ 
+ 13. Th e  trans*- working ﬁ eld of all medi-
+ations is a profan a tion of sacred and 
+run the program for any purpose, to study 
+how the program works, to redis trib ute 
+copies and to improve the program.  
+ 2. 
+In 2014 the asso ci ation for art and media 
+Constant 
+organ ized 
+GenderBlending, 
+a work- session to look at the way 
+3D-imaging tech no lo gies condi tion social 
+read ings and imagin a tions of gender. Th e 
+collect ive inquiry contin ued with several 
+perform at ive iter a tions and includes 
+contri bu tions by Rebekka Eisner, Xavier 
+Gorgol, Martino Morandi, Phil Langley 
+and Adva Zakai ( http://constantvzw.org/
+site/-GenderBlending,190-.html ).  
+ 3. Th e poten tial of soft  ware as a ‘think ing 
+machine’ is that it can activ ate mech-
+anisms of know ledge produc tion, of 
+not- only-text- based crit ical theory: ‘A 
+carto graphy is a theor et ic ally based and 
+polit ic ally informed reading of the 
+present. Cartographies aim at epistemic 
+and ethical account ab il ity by unveil ing 
+the power loca tions which struc ture our 
+subject- posi tion’ ( Braidotti 2013 : 164). 
+  4. ‘MakeHuman is an open source 3D 
+computer graph ics soft  ware middle ware 
+designed for the proto typ ing of photo 
+real istic humanoids. It is developed by 
+a community of program mers, artists, 
+and academ ics inter ested in 3D model-
+ing of char ac ters’,  Wikipedia ,  https://en.
+wikipedia.org/wiki/MakeHuman 
+[accessed 18 April 2017]. 
+ 5. Present 
+and 
+past 
+contrib ut ors 
+to 
+MakeHuman:  http://www.make hu man.
+org/halloﬀ ame.php [accessed 18 April 
+2017]. 
+ 6.  https://en.wiki p e  dia.org/wiki/
+MakeHuman#References_and_Related_
+Papers [accessed 18 April 2017]. 
+ 7. Th e Artec3 3D-scanner is sold to 
+museums, creat ive labs, forensic insti tu-
+tions and plastic surgery clinics alike. 
+Th eir collec tion of use- cases shows 
+how the market of shapes circu lates 
+between bodies, cars and pros thesis: 
+ http://www.artec3d.com/applic a tions 
+[accessed 18 April 2017].

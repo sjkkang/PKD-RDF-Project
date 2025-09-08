@@ -1,0 +1,205 @@
+DIGITAL PHILOSOPHY
+
+Nature hypo thesis (see  Fredkin 1992 ) 
+presumes that all things in nature, along 
+with their prop er ties, can be shown to be 
+discrete. Consequently, Fredkin argues 
+that continu ity and inﬁ n ity are just illu-
+sions, and that the past, present and future 
+of the universe all evolve in a step- like 
+fashion. In this respect, it is possible to say 
+that digital philo sophy proposes an onto-
+logy in which compu ta tion is seen as a sort 
+of lowest common denom in ator for all 
+that exists. It is possible to say, there fore, 
+that at the core of digital philo sophy one 
+ﬁ nds not only the system atic quant it at ive 
+trans form a tion of the qual it at ive, and the 
+belief that the imma ter ial will lead to the 
+mater ial, but also a profound re- assess ment 
+of the rela tion between simpli city and 
+complex ity. 
+ Th is is evident in the work of Stephen 
+Wolfram ( 2002 ), who uses cellu lar auto-
+mata to demon strate that, by follow ing 
+basic discrete rules, very simple compu ta-
+tional systems are capable of gener at ing 
+increas ingly complex levels of beha viour 
+over time. Wolfram extends these obser va-
+tions to the universe itself, which he sees 
+running on similar simple (and comput-
+able) rules that gradu ally construct 
+complex results. In this sense, Wolfram 
+deﬁ nes his Principle of Computational 
+Equivalence 
+as 
+explain ing 
+empir ical 
+phenom ena via the most funda mental 
+hypo thesis: everything builds up from a 
+simple level, and when a system has 
+reached its own point of maximum 
+complex ity, it should be considered to be as 
+complex as anything else. Wolfram main-
+tains that this prin ciple opens up a ‘new 
+kind of science’ ( Wolfram 2002 ). In fact, for 
+him it is a ‘new rule of nature’ (ibid.: 720) 
+with ‘a quite unpre ced en ted array of 
+implic a tions for science and scientiﬁ c 
+think ing’ (5). Epistemologically speak ing, 
+the prin ciple aims to prove the exist ence of 
+an upper limit not only on the complex ity 
+the latter’s discrete model of organ iz a tion 
+to the struc ture of the cosmos, and 
+advanced the thesis that the entire universe 
+is nothing but the output of a determ in istic 
+compu ta tion. Today, digital philo sophy 
+draws in part on Zuse’s insights to develop 
+a diverse body of theor ies that hold that 
+there is a funda mental inform a tional and 
+quant it at ive prin ciple under ly ing the 
+universe, which processes the latter’s evol-
+u tion in real time. 
+ To a greater or lesser extent, this sort of 
+Aristotelian prime mover has been iden ti-
+ﬁ ed in terms of a compu ta tional mech an-
+ism. Some see it as a discrete system similar 
+to a cellu lar auto maton (see  Fredkin 2003 ; 
+ Wolfram 2002 ); others view it as a quantum 
+compu ta tional process (see  Lloyd 2007 ; 
+ Deutsch 1997 ), or as a univer sal Turing 
+machine 
+(see 
+ Schmidhuber 
+1997 ). 
+Generally, however, all of these perspect-
+ives consider inform a tion to be more 
+funda mental than matter and energy. Th e 
+notion of compu ta tion, in turn, comes to 
+the fore as a concept that super sedes both 
+math em at ics and physics: it is viewed as a 
+prin ciple or as a cause, or indeed as ‘a phys-
+ical activ ity’ ( Toﬀ oli 1982 : 165), that might 
+be able to account for what the theor et ical 
+phys i cist John Archibald Wheeler has 
+called ‘it from bit’ ( 1990 : 310). 
+ Digital philo sophy main tains that, ‘if 
+our universe is digital, then all the things in 
+it are too, includ ing human bodies and 
+brains’ ( Steinhart 2004 : 183). It there fore 
+holds that compu ta tion is not just a tool to 
+simu late reality, but rather the onto lo gical 
+ground of reality itself. Th is claim is 
+advanced expli citly by the computer 
+scient ist Edward Fredkin, who is perhaps 
+one of the most radical proponents of 
+digital philo sophy (and who gave it its 
+name). For Fredkin, phys ical laws are 
+nothing but algorithms or on/oﬀ  instruc-
+tions, and subatomic particles are nothing 
+but units of binary inform a tion. His Finite
+Algorithmic Information Th eory, arguing 
+that the complex ity of a law is to be meas-
+ured by compar ing it with the complex ity 
+of the data that this law attempts to account 
+for (see  Chaitin 2006b  and  2006c ). 
+According to Chaitin, a rule must be 
+simpler than the outcome of its applic a-
+tion. In this respect, a law truly explains 
+some thing only if its input is concise whilst 
+its output is not. Chaitin consequently 
+applies his algorithmic theory of inform a-
+tion to biology (for example, he makes 
+ DNA  the simple input that gener ates a 
+complex organ ism as its output; see 
+ Chaitin 2012 ), and to the devel op ment of 
+everything that exists. ‘All is algorithm’, 
+he claims (2007: 235), for the essence of 
+objects is to be conveyed by the shortest 
+program able to express that object’s 
+inform a tional content. In this view, it is 
+compu ta tional processing, rather than 
+math em at ical equa tions, that can best 
+describe the real: in Chaitin’s theory there 
+is no formal reduc tion to static and eternal 
+perfec tion, 
+but 
+rather 
+an 
+oper at ive 
+compres sion, which leaves room for the 
+compre hen sion of the dynam ism of 
+empir ical phenom ena. 
+ Digital philo sophy might well be ‘a new 
+way of think ing about how things work’ 
+( Fredkin 2003 : 189), yet many devel op-
+ments in science and tech no logy have 
+made this digital cosmo logy possible. 
+Digital philo sophy can be seen to have 
+grown out of the twen ti eth- century 
+ technos cientiﬁ c belief that inform a tion 
+is essen tial to the universe, and to attest 
+to the fact that the computer is ‘a 
+new 
+and 
+funda mental 
+philo soph ical 
+concept’ ( Chaitin 2006b : 11). Whether this 
+concept should be taken as a meta phor 
+or (as digital philo sophy main tains) as 
+reveal ing 
+univer sal iz ing 
+meta phys ical 
+truths remains open to debate. 
+ One possible objec tion to digital philo-
+sophy follows from consid er ing that other 
+of possible real- life compu ta tions, but also 
+on the heur istic capa cit ies of science. Our 
+most power ful compu ta tional tools, then, 
+are just as power ful as the natural phenom-
+ena that they are inten ded to model. In 
+Wolfram’s view, however, it also follows 
+from the Principle of Computational 
+Equivalence that the natural is not super-
+ior to the arti ﬁ  cial, because algorithms can 
+do anything that life does. 
+ Digital philo sophy is an orient a tion in 
+contem por ary science, yet its consid er a-
+tion of the phys ical nature of beings aims 
+to say some thing about the meta phys ical 
+nature of Being. From a histor ical perspect-
+ive, because of its search for an origin or a 
+unique source of exist ence and becom ing, 
+this digital meta phys ics recalls pre-
+Socratic philo sophies. Moreover, when 
+tracing a gene a lo gical traject ory for digital 
+philo sophy, one should also include 
+Pythagoras’ belief that number is the 
+unify ing prin ciple of the real, Democritus’ 
+atomism, Zeno’s demon stra tion of the 
+contra dic tions of continu ity, and Galileo’s 
+descrip tion of the universe as written in a 
+code that needs to be deciphered. However, 
+there can be little doubt that the most 
+import ant philo soph ical refer ence for 
+digital onto lo gists is Leibniz. Despite its 
+many vari ants, digital philo sophy can be 
+seen as a contem por ary re- elab or a tion of 
+Leibniz’s monad o logy of discrete and self- 
+contained units of being. Digital philo-
+sophy’s monist meta phys ics is meant to 
+oﬀ er an answer to the Leibnizian ques tion 
+of ‘why is there some thing rather than 
+nothing’ ( Leibniz 1989a : 210). It does so by 
+propos ing, in a Leibnizian spirit, a world 
+that is ‘the simplest in hypo thesis’ but ‘the 
+richest in phenom ena’ ( Leibniz 1989b : 39). 
+ Th e math em atician Gregory Chaitin 
+has openly acknow ledged that ‘digital 
+philo sophy is Leibnizian’ (2007: 236). 
+Chaitin pays tribute to Leibnizian ideas on 
+complex ity 
+and 
+random ness 
+in 
+his

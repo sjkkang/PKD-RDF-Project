@@ -1,0 +1,367 @@
+COMPUTATIONAL TURN
+
+logic of programmed truths, but on the 
+capa cit ies of auto mated systems to retrieve 
+(and thus to directly act upon) large 
+amounts of inform a tion. With the inter act-
+ive machine, the compu ta tional methods 
+of know ledge have also radic ally changed 
+and involve no longer programmed, but 
+program mable truths stem ming from 
+the capa cit ies of algorithms to estab lish 
+infer ence from the retrieval, correl a tion 
+and clas si ﬁ c a tion of data. As know ledge 
+becomes compu ta tion ally processed by 
+means of algorithmic proced ures of 
+search ing and sorting data, algorithmic 
+auto ma tion has become central to cultural 
+produc tion (through algorithmic- oriented 
+search and analysis of computer simu la-
+tions), to the polit ical machine of 
+governance (through algorithmic and 
+data mining systems of secur ity and 
+control) and to the nature of machine 
+think ing. More expli citly than ever, 
+the compu ta tional turn is raising the 
+ques tion of what and who is produ cing 
+know ledge. 
+ It is possible to distin guish three distinct 
+orders of know ledge (cultural produc tion, 
+governance and thought itself), which have 
+become entangled with the twenty- ﬁ rst-
+century form of compu ta tional auto ma-
+tion. Th e ﬁ rst order concerns how the 
+compu ta tional infra struc ture is trans form-
+ing the very task of know ledge produc tion 
+within the human it ies (an algorithmic- 
+driven produc tion of culture). Th e second 
+concerns the way auto nomic machines, 
+data scrap ing and data mining tech niques 
+show how the governance of popu la tions 
+is increas ingly tending towards the 
+meta- governance of data, involving the 
+algorithmic embed ding of the social body 
+within the body of data. Th e third order 
+concerns the compu ta tion of thought itself; 
+not the imit a tion of think ing, but whether 
+compu ta tion is learn ing  how to elab or ate 
+concepts through social, linguistic and 
+Th is symbolic order of know ledge was not 
+repres en ted in the form of the math em at-
+ical model of a  calcu lus rati ocin ator , but 
+more import antly was a vision of the auto-
+mated capa cit ies to rational think ing 
+insofar as comput ing could be embed ded 
+in machines that could perform calcu lus. 
+Leibniz’s early modern project of comput-
+ing know ledge foresaw the link between 
+discret iz a tion and auto ma tion and the 
+emer gence of a univer sal machine that 
+could store, processes and trans mit know-
+ledge by means of a binary logic. Since 
+then, the turn to compu ta tion has envis-
+aged the possib il ity of invent ing a general 
+system of order ing, clas si fy ing, compress-
+ing and correl at ing data: a tran scend ental 
+mode of think ing. Only aft er two centur-
+ies, with the inven tion or the thought 
+exper i ment of the Turing Machine, could 
+the auto ma tion of know ledge ﬁ nally 
+become more than a mere recom bin a tion 
+of discrete bits. Th e method of discret iz a-
+tion no longer has the task of break ing 
+down complex ity into ﬁ nite units, but 
+instead acquires the power of elab or at ing 
+inform a tion to search for problem- solving 
+solu tions. From crunch ing numbers to the 
+auto ma tion of problem- solving, the Turing 
+Machine intro duced a radical discov ery 
+in compu ta tion, namely the oper at ive 
+func tion or the perform at ive activ ity of 
+inform a tion. With the Turing Machine, 
+know ledge fully enters the modern infra-
+struc ture of compu ta tional axio mat ics or 
+truth contain ing logic absorb ing social 
+activ it ies of inform a tion commu nic a tion 
+and trans mis sion. Th e consequences of 
+this new form of auto ma tion re- write the 
+history of Western culture through the 
+indus trial machine of the assembly line 
+and Taylorist methods of produc tion. By 
+the late 1980s, the Turing Machine had 
+developed to become inter act ive and 
+dialo gic ally respons ive to the envir on-
+ment; no longer based on the deduct ive
+vari ations. Th e shift  towards a non- rational 
+model of power has meant that governance 
+has acquired a systemic func tion al ity, 
+which is inclus ive of excep tions as these 
+become captured by the perform at ive 
+produc tion of norms, emer ging as and 
+when these are needed. No longer depend-
+ent on  a priori axio mat ics, but on the inde-
+term in acy of excep tions, the system atic 
+quality of governance works to predict 
+erratic conducts and to stat ist ic ally 
+produce truths assembled by the data- 
+driven compu ta tional machine. Here 
+predic tion involves forward- looking eval-
+u ation of data (the compu ta tional strat i ﬁ  -
+c a tion of popu la tion within the fractal 
+matrix of data, metadata, big data, soft  ware 
+programs, algorithmic processing) estab-
+lish ing a conduct of conduct, or regimes of 
+intel li gib il ity run by machine. 
+ From this stand point, not univer sal 
+truths, but the mutab il ity of contin gency – 
+lawless nature or unknown unknowns – 
+have become the dynamic motor of a 
+compu ta tional mode of predic tion aiming 
+not simply at avoid ing but at stream ing risk 
+towards its inev it able consequences. With 
+the compu ta tional turn, the domin ance 
+of uncer tainty and its unpro gram mable 
+implic a tions have accel er ated the prolif er a-
+tion of auto nomic responses. Here fear, 
+anxiety and panic, as well as erratic beha-
+viour and continu ous distrac tion are the 
+motor of a social media culture of hyper-
+ p res ence, and have become the univocal 
+determ in ant of polar ized posi tions, short- 
+circuit ing decision- making through  YES  
+and  NO . As algorithms become the execut-
+ors of sover eign decisions acting  when and  if 
+the unse lec ted amounts of data can become 
+func tional in stream ing, anti cip at ing and 
+struc tur ing risk, then the compu ta tional 
+turn comes to coin cide with an appar atus of 
+governance oper at ing not only on bodies, 
+but through the dati ﬁ c a tion of biolo gical, 
+phys ical and cultural speciﬁ cit ies. 
+cognit ive synthetic abstrac tions, and not 
+simply learn ing  that , i.e. speciﬁ cit ies or 
+context- bound know ledge.  
+ Automated Criticality 
+ In  How We Th ink , Katherine Hayles argues 
+that the compu ta tional turn has led to an 
+irre vers ible trans form a tion of analytic 
+processing central to human it ies research. 
+As methods of research and know ledge 
+produc tion in the human it ies have become 
+compu ta tion ally formed, Hayles suggests 
+that code, algorithms and digital theory 
+must become recog nized as an integ ral part 
+of know ledge produc tion. Whilst compu ta-
+tion involves quant it at ive methods of text 
+analysis, the contin ental tradi tion in 
+human it ies has histor ic ally ques tioned the 
+notion- based and mnemonic studies in 
+favour of crit ical, reﬂ ect ive and compar at ive 
+learn ing. Hayles insists, however, that tech-
+nical modes of know ledge are to be inte -
+g rated and not opposed to crit ical modes of 
+learn ing. As tech no logy has a direct impact 
+on modes of under stand ing and learn ing, 
+Hayles argues that web- based and machine 
+reading oﬀ er new capa cit ies to process mass 
+amounts of inform a tion that funda ment ally 
+extend know ledge produc tion and not only 
+possib il it ies of know ledge storing.  
+ Algorithmic Sovereignty 
+ Th e issue of how compu ta tional processing 
+can extend the limits of know ledge and 
+whether it can enhance the possib il it ies of 
+crit ical think ing raise the ques tion of 
+governance at the core of the compu ta-
+tional turn. As auto nomic comput ing 
+subtends the ubiquit ous use of stat ist ical 
+methods to calcu late risks, so has techno- 
+governance, as Michel Foucault anti ci   -
+p ated, become oper at ive or able to act upon 
+or respond directly to contin gen cies and
+CONTEMPORARY, THE 
+might imagine a reﬂ ec tion of and  in time 
+and tempor al ity that precisely looks for a 
+rela tion to the present that would allow 
+escap ing the logic of defer ral and post-
+pone ment towards which the revolu tion-
+ary left  is oft en tending. Drawing on 
+Nietzsche’s notion of the untimely and the 
+anachron istic, as prerequis ites of being 
+truly contem por ary, philo sopher Giorgio 
+Agamben renders ‘the contem por ary’ as 
+the indi vidual ‘who ﬁ rmly holds his gaze 
+on his own time so as to perceive not its 
+light, but rather its dark ness’ ( Agamben 
+2009 : 44). To be contem por ary then means 
+to inhabit a stance toward the present that 
+pays atten tion to the ‘unlived’. Agamben 
+thus proposes ‘an arche ology’ that ‘returns 
+to that part within the present that we are 
+abso lutely incap able of living’ (ibid.: 51). In 
+this view, to be contem por ary is the capa-
+city to recom pose the present by having it 
+being ‘touched’ (53) by the past, in order to 
+actu al ize its trans- temporal poten ti al it ies. 
+ Alternative models of a less melan cholic 
+and instead urgent polit ics of the present 
+have been developed in the ﬁ elds of posthu-
+man, post co lo nial, femin ist or postra cial, as 
+well as in recent envir on ment al ist, climate 
+change 
+and 
+anthro po cene 
+discourse. 
+Leaving behind linear and tele olo gical 
+patterns of think ing time, the ‘abso lute 
+bound ary between here- now and there- 
+then’ is being ques tioned by thinkers 
+conceiv ing ‘new tempor al it ies (space time-
+mat ter ings)’ such as femin ist phys i cist 
+Karen Barad ( 2014 : 168). ‘Th ere is nothing 
+that is new,’ Barad main tains, ‘there is 
+nothing that is not new’ (ibid.). In other 
+words, one cannot (not) be surprised by 
+what is taking place in time, while tradi-
+tional notions of cause and eﬀ ect become 
+lost in the nonlin ear ity of ‘space time mat ter-
+ings’. 
+Deconstructing 
+any 
+dicho tomy 
+between (histor ical) human ity and (time-
+less) nature, the revi sion of tempor al ity 
+accord ing to the complex it ies of an updated 
+ See also  AI (Artiﬁ cial Intelligence); 
+Metadata Society; Altergorithm; Execution; 
+Neocybernetics; Postimage. 
+ Luciana Parisi 
+ CONTEMPORARY, THE  
+ In the aft er math of the ruptures of 1989, 
+when post mod ern ity ulti mately turned 
+ posthis toire  in certain quar ters of ideo logy 
+produc tion, 1 a pervas ive present seemed 
+to have triumphed for ever over past and 
+future alike. At the ﬁ nal stage of the 
+immin ent break down of the grand narra-
+tives of progress and eman cip a tion, with 
+glob al iz a tion and digit al iz a tion prior it iz ing 
+spatial over temporal matters, exclus ive 
+and exclu sion ary rela tions with a partic u lar 
+under stand ing of contem por an eity became 
+some thing of a norm. Obsessively and 
+viol ently colon iz ing the present as the 
+only temporal zone relev ant for capit al ist 
+valor iz a tion and geopol it ical tamper ing 
+neces sitated the meth od ical oblit er a tion of 
+what may cause threats to the mono poly of 
+the now. Hence, the discurs ive and mater ial 
+neut ral iz a tion of the past by a cultural 
+economy of memori al iz a tion and musei ﬁ -
+ca tion is only paralleled by the temporal 
+philo sophies of ﬁ nance and secur ity, both 
+predic ated on notions of anti cip a tion, 
+‘futures’ and pre- emption. Combined, 
+retro ma niac nostal gia and the poli cing of 
+tomor row elicited a dispersal of contem por-
+an eit ies; the produc tion of a ubiquit ous 
+present of however multiple presents blocks 
+futur ity as much as it does histor ical thought. 
+ Most concep tions of time and tempor-
+al ity based on a critique of the present state 
+of power rela tions and the projec tion of a 
+coming revolu tion reject any aﬃ  rm a tion 
+of the present as a sign of stasis, anomie or 
+surrender. Yet pausing for a moment with 
+the contin gency of that aﬃ  rm a tion, one
+of some respons ib il ity,’ based on a ‘non- 
+contem por an eity with itself’, concern ing 
+‘those who  are not there , of those who are 
+no longer or who are not yet  present and 
+living ’ ( Derrida 1994 : xix). Assemblage 
+and assembly of dispar ate tempor al it ies, 
+posthu man 
+onto lo gies 
+and 
+polit ical 
+projects alike, the contem por ary conceived 
+as a reality of becom ings and an ethical 
+resource relin quishes the reduct ive con-
+tem por an eity of  posthis toire . Th is way, to 
+enter the contem por ary means to leave the 
+present as now- time for the poten ti al ity of 
+a commun al ity of tempor al it ies, in which 
+the thinkab il ity of the future is connec ted 
+to, but not limited by, an archae ology of a 
+shared present touched by whatever past. 
+ See also Afrofuturism; Art; Art in the 
+Anthropocene; Metamodernism; Ecopathy; 
+Posthuman Museum Practice,  
+ Note 
+ 1. For a useful discus sion of the prob lem atic 
+notion of ‘post mod ern ism’ as a ‘special 
+moment in  posthis toire thought’ see 
+archi tec tural histor ian Anthony Vidler’s 
+chapter ‘Postmodern or  Posthistoire ?’ in 
+his  Histories of the Immediate Present: 
+Inventing 
+Architectural 
+Modernism 
+(Cambridge,  MA :  MIT Press, 2008), 
+191–200.    
+ Tom Holert 
+ COSMOPOLITICS  
+ Cosmopolitics points towards the re- 
+invig or a tion of the plan et ary sphere of 
+polit ical theory and action in the age of 
+ecolo gical anxiety. It arises out of the reali-
+z a tion that the triumphal ist rhet oric of 
+cosmo pol it an ism is out of place in a world 
+in which the cultural and polit ical assump-
+tions on which it rested have been radic ally 
+mater i al ist onto logy which fully acknow-
+ledges the trans form at ive, hybrid entan gle-
+ments of tech no logy, geology, biology, 
+physics, polit ics, etc., may yield a concept of 
+the present to be appro pri ately framed as 
+‘the contem por ary’. Such framing may be 
+expan ded to be organ ized around the real iz-
+a tion that the realm of the now is always 
+shared by others of whatever kind and time. 
+Th e ‘shared inhab it a tion of time’, as artist 
+and theor ist Shuddhabrata Sengupta from 
+Raqs Media Collective once put it, ‘leads one 
+to think of diﬀ er ent registers of temporal 
+exist ence’, because, contrary to the assump-
+tion ‘that contem por an eity has a certain 
+single direc tion and a certain single velo city’, 
+it may be possible ‘to think of these inhab it-
+a tions of shared moments of time leading to 
+move ments in very diﬀ er ent direc tions and 
+at diﬀ er ent speeds’ ( Raqs Media Collective, 
+Sundaram and Zyman 2012 ). Th e emphasis 
+on multi direc tion al ity and multive lo city 
+certainly is key to an under stand ing of the 
+contem por ary that avoids any reiﬁ c a tion of 
+the present as homo gen eous, merely 
+temporal and oper at ive disjunct ively with 
+regard to past and future. Heterogeneous, 
+5-D, non- iden tit arian and inclus ive, the 
+contem por ary in this other sense is a 
+moving assemblage of tempor al it ies, spati-
+al it ies, mater i al it ies and live li hoods that is 
+not neces sar ily depend ent on a future to be 
+activ ated. Although poten tially ‘drawing 
+energy from the thinkab il ity of the future’ 
+and thus facil it at ing ‘a trans form a tion at the 
+in- depth level’ ( Braidotti 2006a : 207), the 
+contem por ary also thrives on radical 
+coeval ness, or what anthro po lo gist Johannes 
+Fabian has iden ti ﬁ ed as ‘the elements of a 
+proces sual and mater i al ist theory apt to 
+coun ter act the hege mony of taxo nomic and 
+repres ent a tional [i.e. visu al ist] approaches’ 
+( Fabian 2002 : 156). Furthermore, the 
+contem por ary is the subject of a justice 
+‘beyond all living present’, as Jacques 
+Derrida called it, that is of ‘the prin ciple

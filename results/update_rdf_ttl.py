@@ -1,0 +1,63 @@
+"""
+update_rdf_ttl.py
+
+This script loads two RDF/Turtle files, counts occurrences of each (subject, predicate, object) triple,
+and updates the files by adding an 'ex:occurrenceCount' property for each relationship.
+
+Installation:
+    pip install rdflib
+
+Usage:
+    Run this script in VS Code terminal:
+    python update_rdf_ttl.py
+"""
+
+from rdflib import Graph, Namespace, Literal
+from collections import defaultdict
+
+# 📂 File paths (Modify if needed)
+base_path = "/Users/sujinkkang/Dropbox/pkd_rdf_project/results/"
+novel_ttl_path = base_path + "novel_posthumanism_rdf.ttl"
+criticism_ttl_path = base_path + "criticism_rdf.ttl"
+
+# 📂 Output file paths (Updated RDF files)
+updated_novel_ttl_path = base_path + "updated_novel_posthumanism_rdf.ttl"
+updated_criticism_ttl_path = base_path + "updated_criticism_rdf.ttl"
+
+# Define the namespace for 'ex:occurrenceCount'
+ex = Namespace("http://example.org/posthuman#")
+
+def process_ttl_file(input_path, output_path):
+    """
+    Reads an RDF Turtle file, counts occurrences of each (subject, predicate, object) triple,
+    and writes a new Turtle file with 'ex:occurrenceCount' added.
+    """
+    print(f"📂 Processing: {input_path}")
+
+    # 1️⃣ Load the RDF file
+    g = Graph()
+    g.parse(input_path, format="turtle")
+
+    # 2️⃣ Count occurrences of each (subject, predicate, object) triple
+    triple_counts = defaultdict(int)
+    for s, p, o in g:
+        triple_counts[(s, p, o)] += 1
+
+    # 3️⃣ Create a new graph and copy original triples
+    new_g = Graph()
+    new_g += g  # Keep existing triples
+
+    # 4️⃣ Add 'ex:occurrenceCount' property for each triple
+    for (s, p, o), count in triple_counts.items():
+        new_g.add((s, ex.occurrenceCount, Literal(count)))
+
+    # 5️⃣ Save the updated RDF file
+    new_g.serialize(destination=output_path, format="turtle")
+
+    print(f"✅ Updated RDF file saved: {output_path}\n")
+
+# 📌 Process both RDF files and update them
+process_ttl_file(novel_ttl_path, updated_novel_ttl_path)
+process_ttl_file(criticism_ttl_path, updated_criticism_ttl_path)
+
+print("🎉 All RDF files have been updated with ex:occurrenceCount!")

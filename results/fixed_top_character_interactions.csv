@@ -1,0 +1,13 @@
+Character,Relation,Concept,Count
+Deckard,questions,httpexampleorgposthumanCyborg Theory,3
+Deckard,questions,httpexampleorgposthumanAnimal Ethics,3
+Deckard,linkedTo,httpexampleorgposthumanCyborg Theory,3
+Isidore,questions,httpexampleorgposthumanAnimal Ethics,2
+Isidore,linkedTo,httpexampleorgposthumanCyborg Theory,2
+Isidore,questions,httpexampleorgposthumanCyborg Theory,2
+Luba_Luft,linkedTo,httpexampleorgposthumanCyborg Theory,2
+Luba_Luft,questions,httpexampleorgposthumanCyborg Theory,2
+Luba_Luft,linkedTo,httpexampleorgposthumanPostAnthropocentrism,1
+Rachael,linkedTo,httpexampleorgposthumanCyborg Theory,4
+Rachael,strugglesWith,httpexampleorgposthumanCyborg Theory,3
+Rachael,questions,httpexampleorgposthumanCyborg Theory,3

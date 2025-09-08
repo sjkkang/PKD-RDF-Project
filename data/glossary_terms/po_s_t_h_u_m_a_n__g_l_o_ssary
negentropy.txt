@@ -1,0 +1,105 @@
+PO S T H U M A N  G L O SSARY
+NEGENTROPY
+
+of the univer sal to the universe (as, ulti-
+mately, one generic nature), biology relates 
+univer sal ity to the speciﬁ c natures of life 
+forms. Th e phys ic al ist notion of entropy, 
+which in physics started out as denot ing 
+not  the absence of order  but  the virtual 
+pres ence of order in any of its possible vari-
+ations , appeared, from the light of how 
+biology’s oper a tional term of negat ive 
+entropy can quantify life, as the relat ive 
+absence of possible vari ations of order, or 
+as the relat ive absence of order, or, in short, 
+as ‘disorder’. 
+ It is this dilem matic impasse between a 
+certain monism and its plur al ist coun ter-
+point that the intro duc tion of ‘inform a tion’ 
+into the think ing about ther mo dy namic 
+processes managed to abstract from, and 
+to open up. I can only point brieﬂ y here 
+to how this convert ing between inform a-
+tion and energy works (see  Brillouin 
+2013  [1956] for an extens ive and detailed 
+discus sion). My core refer ence is the 
+quantum 
+phys i cist 
+Léon 
+Brillouin’s 
+adoption of Schrödinger’s term of negat ive 
+entropy in a manner that adds an 
+algebraically quant ized (cryp to graphic; 
+see  Equation ) notion of inform a tion to 
+this compet i tion (between physics and 
+biology). Brillouin conceived of inform a-
+tion as a kind of currency that circu lates in 
+ener getic expendit ure (the import and 
+export between systems), such that ‘all 
+these [macro lo gical, quantum phys ical, 
+ VB ] unknown quant it ies make it possible 
+for the system to take a large variety of 
+quant ized struc tures, the so- called Planck’s 
+complex ions’. 3 With this, he began to 
+postu late inform a tion science as the 
+proper domain for quant iz ing how phys-
+ical entropy (the virtual pres ence of any- 
+order) and biolo gical entropy (the absence 
+of order, disorder) relate to one another 
+without subject ing one to the other. 
+Familiar with Turing’s (1936, 1952), 
+Shannon’s ( 1948 ) and Wiener’s ( 1948 ) 
+work on a math em at ical notion of inform-
+a tion and their dispute with regard to 
+whether inform a tion can be meas ured in 
+terms of the exper i mental entropy notion 
+applied to phys ical systems (Shannon), or 
+whether it needs to be accoun ted for in 
+Schrödinger’s terms of negen tropy import 
+in biolo gical systems, 4 Brillouin fore-
+groun ded the role of ‘code’ in such ‘intel li-
+gent’ compu ta tion and applied a  double 
+notion of negen tropy and entropy – one to 
+energy, one to inform a tion, under the 
+assump tion that both are linked by code: 
+free (entropic) inform a tion to him is the 
+maximum amount of  a priori  cases formu-
+lated in a code (any ﬁ nite system of ordered 
+elements like the Morse code, or the 
+Roman alpha bet, the peri odic table in 
+Chemistry or the  DNA in molecu lar 
+biology); the  a priori  cases can be computed 
+by combin at or ics, and in entropic inform-
+a tion each of them must be regarded as 
+equally likely to be actu al ized. Bound 
+(negen tropic) inform a tion is empir ic ally 
+meas ured inform a tion (in exper i ments 
+with any partic u lar mani fest a tion of such a 
+code). Th is inclin a tion in the meas ure ment 
+of inform a tion allows for think ing of 
+inform a tion as a kind of currency – an 
+oper ator capable of estab lish ing general 
+equi val ence, equi val ence between obser va-
+tion and object – that circu lates in the 
+phys ical expendit ure of energy in executed 
+work as well as in the economy of import 
+and export in a biolo gical system’s meta-
+bol ism. ‘We cannot get anything for 
+nothing, 
+not 
+even 
+an 
+obser va tion’, 
+Dennis 
+Gabor 
+famously 
+main tained 
+(Dennis Gabor,  MIT Lectures, 1951 cited 
+in Brillouin, ibid., posi tion 3805). Th is very 
+import ant law is a direct result of our 
+general prin ciple of negen tropy of inform-
+a tion, Brillouin elab or ates, and ‘[I]t is very 
+surpris ing that such a general law escaped 
+atten tion until very recently’ (ibid.). Th e 
+acquis i tion of inform a tion in meas ure ment

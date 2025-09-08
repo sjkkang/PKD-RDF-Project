@@ -1,0 +1,188 @@
+EXECUTION
+
+Michel Serres’ account of the ﬁ ve (human) 
+senses, every time an organ – or func tion 
+– is liber ated from an old duty, it re- invents 
+itself ( Serres 2001 ). As Hominina 1 stood up 
+from her quad ruped ancestor, the tongue, 
+freed from the vital neces sity to sense 
+danger, became a univer sal tool ( Serres 
+2014 : 2). According to Serres, the ‘infor-
+m a tion imper at ive’ is to receive, store, 
+process and emit inform a tion. Th e tongue’s 
+embed ded subjectiv ity has become a 
+literal geograph ical expan sion of the post- 
+indus trial and the nutraceut ical 2 market. 
+It divides bodies between obese/skinny, 
+food between organic/fair- trade. It clears 
+Amazonian rain forests for soya plant a tions 
+used for feeding live stock ( Morton et  al. 
+2006 ). It frac tions popu la tions between 
+young high- paid social entre pren eurs and 
+the viol ently displaced. Th e tongue is a 
+decis ive and divis ive organ of gentri ﬁ c a-
+tion and land forming. 
+ Such discurs ive systems divide and 
+conquer, working to make entit ies execut-
+able accord ing to their partic u lar logics 
+and delim ited needs. In his found a tional 
+article ‘On Computable Numbers, with an 
+Application to the Entscheidungsproblem’, 
+Alan Turing provides a deﬁ n i tion of 
+comput ab il ity as that capable of being 
+enumer ated and made into eﬀ ect ively 
+calcul able algorithms for execu tion upon 
+and by machines (1936). In the further 
+mater i al iz a tion of Turing’s thesis into 
+actual comput ing machines, the act of 
+making things discrete, so as to be comput-
+able, becomes one of estab lish ing machine- 
+read able  cuts . Th ese are the switch able on 
+and oﬀ  state elements, or ﬂ ip- ﬂ ops that are 
+enacted at the level of logic gates used to 
+store and control data ﬂ ow. Such ﬂ ip pable 
+states consti tute the mater ial basis that 
+allows for the writing and running of the 
+execut able binary instruc tions of machine 
+code upon this ‘manic cutter known as the 
+computer’ ( Kittler 2010 : 228). 
+ Such cuts – execu tion performed by 
+compu ta tion – are expressed at the temporal 
+dimen sion of code execu tion, constantly 
+render ing the now in networked and pervas-
+ive condi tions. Th e fetch–execute cycle in 
+comput ing is used to describe the oper a-
+tional steps of perform ing code instruc tions 
+by a Central Processing Unit (or  CPU ) 
+follow ing its clock cycle. A  CPU fetches each 
+instruc tion from the memory and breaks it 
+down into micro- instruc tions, includ ing the 
+controlling oper a tion sequence, comput ing, 
+trans fer ring, reading, updat ing and storing 
+data in memory ( Burrell 2004 ). Th us what is 
+written in a piece of source code should only 
+be regarded as a partial instruc tion within a 
+wider, dynamic ecology of many execut ing 
+systems. When extend ing the notion of 
+execu tion into any dynamic networked 
+envir on ment in which things are networked 
+seam lessly and data is processed continu-
+ously, there are diﬀ er ent ‘micro- decisions’ 
+that are executed at the level of network 
+proto cols to control and regu late the trans-
+mis sion of data ( Sprenger 2015 ). Such deep 
+internal and oper a tional struc tures of 
+compu ta tion, data processing and digital 
+networks execute a distinct ive rhythm and 
+tempor al ity; a compu ta tional form of 
+‘micro- tempor al ity’ ( Ernst 2013 : 57). 3 Th ese 
+compu ta tional cuts and micro- decisions are 
+inter twined, dynamic and subject to change 
+at any moment in time. In other words, 
+execu tion 
+involves 
+micro- instruc tions, 
+micro- oper a tions and a micro- tempor al ity 
+of things where codes, mater i als and actions 
+are composed in a dynamic envir on ment. 
+Th is micro- temporal dimen sion of execu-
+tion again draws atten tion to the phenom-
+ena of liveness; the dynam ics of execu tion 
+that constantly render the  now . 
+ Any such cuts in the name of execut-
+abil ity can be compared to what Karen 
+Barad refers to as ‘agen tial cuts’ (2007: 429). 
+Th ey are made in the name of a certain 
+agency; in the case of computer code,
+a compu ta tional agency. In its level ling of 
+all data into a binary form of on and 
+oﬀ , compu ta tional cuts enact a radical 
+and seem ingly non- discurs ive treat ment 
+of inform a tion. Th e data struc tures of 
+comput ing are notice able for the way 
+in which they are partic u larly amen-
+able to recon ﬁ g ur a tion and applic a tion 
+towards a range of oper a tions ( Lovelace 
+and Menabrea 1842 ). Such a chan ging of 
+states and conﬁ g ur a tions is, unsur pris-
+ingly, oft en strongly felt by any entit ies 
+brought into contact with their execut ing 
+logics. Turing himself was made to be 
+acutely aware of this exec ut ive power of 
+code, whether program mable, polit ical or 
+cultural. Deﬁ nable as a war hero accord-
+ing to one set of patri otic para met ers, he 
+soon found himself rapidly switched from 
+national saviour back to sexual deviant 
+and crim inal to be perse cuted by the state. 
+Computable accord ing to some logics and 
+conﬁ g ur a tions; uncom put able accord ing 
+to others. Such is the poten tial power and 
+viol ence of any cut and its execut ab il ity. 
+ Th is viol ence of entangled and oft en 
+compet ing execut able logics inev it ably 
+leaves ‘marks on bodies’, in which the 
+marks are ‘the diﬀ er ences mater i al ized’ 
+( Barad 2007 : 89). From Turing’s chem ical 
+castra tion to the growth of synapses cata-
+lysed by repeated stim u lus, organ isms bear 
+the marks of inscrip tion and execu tion. 
+Implicit memory, in the Pavlovian tradi-
+tion, is inscribed into long- term memory 
+through habitu ation. Th e envir on ment is 
+constantly execut ing memory. Such is the 
+power and force of trauma that it boot-
+straps long- term memory creation ( Kandel 
+2006 : 342). Nevertheless, memory is also 
+ forget ting , a dynamic process of constant 
+read/write execu tion. Th e recall ing of 
+memor ies is based on chem ical exchanges 
+within highly mutable synaptic networks 
+that require protein synthesis ( Nader, 
+Schafe and Le Doux. 2000 ). As memory is 
+react iv ated, it mutates. Memory becomes 
+an ongoing site of execu tion, rather than 
+one of static storage, in which both habitu-
+ation and dele tion are crucial. Th e brain 
+actively erases inform a tion as part of its 
+regu lat ory processes ( Hadziselimovic et al. 
+2014 ). In the absence of this regu lat ory 
+func tion, a human becomes crippled by a 
+form of neur o lo gical condi tion called 
+hyper thyme sia. 4   Erasure and death are 
+regu lat ory func tions performed through 
+execu tion and its continu ous actu al iz a tion. 
+ Th e very etymo logy of execu tion is 
+admin is trat ive, and as a regu lat ory 
+processing of living beings, bureau cracy is 
+the perform ance of the law. But a violent 
+disjunc tion occurs in the conﬂ a tion of law 
+and execu tion: the state of excep tion; or 
+the conﬂ a tion of death and execu tion: 
+capital punish ment. Cuts, which are inher-
+ently exclu sion ary, also contain a ready 
+poten tial of violent impos i tions of a system 
+onto bare life ( Agamben 2005 ). If the cut 
+and its execu tion mater i al ize on the one 
+hand in the actu al iz a tion of an event, they 
+can also, in biopol it ical fashion, take on an 
+oper at ive func tion as a self- perpetu at ing 
+ threat of viol ence to come. Such menacing 
+ poten tial events of crisis become import-
+ant in actual execu tion, helping to prompt 
+a range of pre- emptive forms of violent 
+coded logics and crisis- oriented forms of 
+execu tion (Cox 2015;  Chun 2016 ). 
+ Execution situ ates and is situ ated. 
+Whether via the tongue, the guil lot ine, the 
+ CPU or the synapses, execu tion produces 
+integ ral coup lings of subjectiv ity and 
+desub jectiv ity through systems such as 
+those of language, of judi ciary, of compu ta-
+tion and of memory. A power ful force, 
+leaving marks on bodies and indelible trau-
+matic memor ies. Such ecolo gies of execu-
+tion are mani fold, and the eﬀ ec tu ation of a 
+system is always conjug at ing amongst a 
+mesh of other hetero gen eous agents, 
+processes, ener gies and mater ial strata.

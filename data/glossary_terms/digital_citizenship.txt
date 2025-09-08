@@ -1,0 +1,188 @@
+DIGITAL CITIZENSHIP
+
+society: ‘Digital citizens are those who use 
+tech no logy frequently, who use tech no logy 
+for polit ical inform a tion to fulﬁ ll their civic 
+duty, and who use tech no logy at work for 
+economic gain’ ( Mossberger et al. 2008 ). 
+ However, does use of tech no logy imply 
+parti cip a tion or engage ment in a polit ical 
+sense? Th e larger social context and the 
+actual rami ﬁ c a tions for parti cip a tion and 
+engage ment are complex and it is diﬃ   cult 
+to gener al ize ﬁ nd ings focus ing on indi-
+vidu als. While one can indeed point to 
+studies indic at ing correl a tion between 
+frequency of inter net use and civic engage-
+ment, larger trends under mine overly 
+optim istic conclu sions: ‘why is it that 
+Internet use is at an all- time high while 
+civic engage ment overall contin ues to 
+decline?’ ( Greer 2008 ). 
+ Engaging with this issue begins with 
+the crit ical ques tion ing of terms like ‘digital 
+native’, where tech no lo gical compet ence is 
+equated with growing up in an envir on-
+ment where digital devices are readily 
+access ible. Th e ques tion of digital citizen-
+ship in rela tion to youth – and why not 
+consid er ing older people’s activ ism like the 
+Spanish seniors organ iz ing in the ‘iaio-
+ﬂ autas’ move ment 1 – needs to go beyond 
+the ques tion of access and basic skills in 
+order to inter rog ate people’s ‘capa city to 
+project iden tit ies in collect ive spaces’ 
+( Bennett 2007 ) and to develop an idea of 
+how they engage polit ical prac tices and 
+imagin ar ies without ignor ing the aﬀ ord-
+ances of the medium. Th is includes the 
+ques tion how move ments like Anonymous 
+may func tion both as a gateway to polit ical 
+activ ism and as an avenue for  slackt iv ism , 
+the low- threshold illu sion of actual polit-
+ical parti cip a tion ( Coleman 2013 ). 
+ Infrastructure of Citizenship 
+ Digital citizen ship, under stood in a wider 
+and more funda mental sense than simply 
+into contact with notions of the public 
+sphere, in rela tion to Habermas or not 
+( Calhoun 1993 ). 
+ Th ese 
+new 
+public 
+spheres 
+and 
+discourses are char ac ter ized by the emer-
+gence and trans form a tions of modes of 
+expres sion and commu nic a tion, as well as 
+the struc tur ing of dissem in a tion, debate 
+and produc tion of meaning through 
+online plat forms (YouTube, Instagram, 
+Twitter, Facebook, etc.) and the multi di-
+men sional modes of circu la tion between 
+them. Mobile tele phones allow for making 
+photos and videos on the go, their manip u-
+la tion through editing or visual ﬁ lters, 
+instant sharing, comment ing and complex 
+forms of order ing or collec tion- making. 
+Other visual- narrat ive formats, such as 
+inform a tion visu al iz a tion, web docu ment-
+ar ies, etc. add to the prolif er a tion of  forms , 
+the core char ac ter istic of which is their 
+embed ded ness (hyper links, related items, 
+comments, etc.) and the blur ring between 
+recep tion and produc tion ( Kessler and 
+Schäfer 2009 ). 
+ The Making of Digital Citizens 
+ New visual and textual forms of (self-)
+expres sion and parti cip a tion aﬀ ect not only 
+the polit ical land scape as such, but also the 
+devel op ment 
+of 
+polit ical 
+and 
+civic 
+subjectiv it ies. In this respect, citizen ship is 
+frequently discussed in connec tion with 
+youth and, in partic u lar, with the ques tion 
+of how to ‘produce’ citizens, i.e. how to 
+make sure that young people are learn ing 
+the ethos and skills required for civic and 
+polit ical parti cip a tion. Th e concept is oft en 
+discussed in similar terms as the now less 
+current notion of the ‘digital divide’: use, 
+and in partic u lar compet ent use, deﬁ nes an 
+in/out logic, where the oft en expli cit goal is 
+to bring as many people as possible into the 
+fold. Citizens are, in a sense, simply under-
+stood as the func tion ing units of a liberal
+(also) a prescrip tion. With Hume, one 
+could say that it forces us to leave the ‘is’ for 
+the uncom fort able domain of the ‘ought’. 
+Here, we will need a new kind of ethical 
+think ing that is up to the chal lenge (cf. 
+ Braidotti 2013 ). 
+ See also  Algorithmic Studies; Metadata 
+Society; 
+Organization 
+in 
+Platform 
+Capitalism. 
+ Note 
+ 1. See  http://www.iaio ﬂ autas.org 
+ Bernhard Rieder 
+ DIGITAL PHILOSOPHY  
+ Th e expres sion  digital philo sophy is used to 
+denote a number of theor et ical perspect-
+ives concern ing the ulti mate nature of 
+reality. Advocates of digital philo sophy 
+main tain, via a variety of diﬀ er ent and 
+oft en irre con cil able voices, that the 
+universe is funda ment ally discrete. Th at it 
+is, in fact, digital. Th e digital, accord ing to 
+these views, is a univer sal iz ing onto lo gical 
+prin ciple: a prin ciple that is believed to be 
+oper at ive well beyond the tech no lo gical 
+constraints of compu ta tional media, and 
+which is held to char ac ter ize both mental 
+states and phys ical entit ies as inform a-
+tional and, there fore, as also comput able. 
+ Th e origin of digital philo sophy can be 
+traced back to the work of the computer 
+pioneer Konrad Zuse. In the late 1960s, 
+Zuse put forth the hypo thesis of a 
+computa tion- based 
+phys ical 
+universe. 
+Zuse believed that ‘objects and element ary 
+dimen sions of physics must not be comple-
+men ted by the concept of inform a tion but 
+rather should be explained by it’ ( Zuse 
+1993 : 176). Focusing on the oper a tions of 
+cellu lar auto mata, 1 Zuse ( 1970 ) exten ded 
+famili ar ity and daily use, requires us to 
+inter rog ate tech no logy as a place where 
+power and know ledge ﬁ nd mech an ized 
+expres sions, and polit ics are circum scribed 
+by partic u lar inter faces, inform a tion archi-
+tec tures and modes of order ing. Th is 
+means not only analysis and critique of the 
+plat forms them selves, not only analysis of 
+partic u lar polit ical moments that link to 
+them, but also reﬂ ec tion on the design and 
+produc tion of tools that shape human rela-
+tions and exper i ence – in other words, we 
+need to inter rog ate the infra struc ture of 
+citizen ship and polit ics. 
+ Th is needs to go hand in hand with a 
+crit ical distance from what Morozov 
+( 2013 ) calls ‘solu tion ism’, the belief that 
+every social problem can and should be 
+solved by tech no lo gical means. It is worth-
+while to remem ber that ‘not all polit ical 
+actors are indi vidual human agents: a wide 
+variety of agents, or “actants” in Latour’s 
+termin o logy, have polit ical eﬀ ects while 
+not being polit ical subjects in any conven-
+tional sense’ ( Karatzogianni and Schandorf 
+2012 ). We need not go as far as think ing 
+that, by produ cing partic u lar soft  ware 
+designs, we are ‘coding freedom’ ( Coleman 
+2012 ), but if soft  ware has become a crucial 
+element in polit ical prac tice, the time for 
+‘embed ding the human it ies in engin eer ing’ 
+( Fisher and Mahajan 2010 ) has come. 
+ New media envir on ments have not 
+only accom mod ated forms of polit ical 
+prac tice that are, ulti mately, direc ted 
+towards eman cip a tion and polit ical parti-
+cip a tion, they are also sites and agents in 
+more brutal struggles, includ ing phenom-
+ena such as state- sponsored censor ship, 
+cyber war fare and the fully digital theatre 
+of war of which the much- discussed drone 
+ships are but one element. Th e notion of a 
+‘moral ity of things’ ( Verbeek 2011 ) never 
+becomes as tangible, as  insist ing , as in the 
+prac tice of design ing a tech nical object 
+that is never a mere descrip tion, but always
