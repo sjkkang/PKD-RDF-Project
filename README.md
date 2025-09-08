@@ -136,9 +136,9 @@ python scripts/visualize_rdf.py
 - Co-occurrence analysis within text
 
 ### 3. RDF Graph
-- Total of [X] triples generated
-- [Y] unique concepts identified
-- [Z] relationship types defined
+- Total of 291 triples generated (282 from merged graph + 9 from criticism)
+- 187 unique concepts identified
+- 14 relationship types defined
 
 ## Research Methodology
 
