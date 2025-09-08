@@ -1,0 +1,33 @@
+# Sample Data Structure for Research Reproduction
+
+This file demonstrates the expected format for processed novel data. The actual content has been removed due to copyright restrictions.
+
+## File Format
+CSV file with the following columns:
+- `chapter`: Chapter number or section identifier
+- `sentence_id`: Unique identifier for each sentence
+- `text`: Processed sentence text
+- `entities`: Extracted named entities (JSON format)
+- `concepts`: Identified posthumanist concepts
+- `characters`: Character mentions in the sentence
+
+## Example Structure
+```csv
+chapter,sentence_id,text,entities,concepts,characters
+1,1_001,"[Sample sentence text]","[{\"text\":\"entity\",\"label\":\"PERSON\"}]","[\"posthumanism\"]","[\"character_name\"]"
+1,1_002,"[Another sample sentence]","[{\"text\":\"entity\",\"label\":\"ORG\"}]","[\"cyborg_theory\"]","[\"character_name\"]"
+```
+
+## Data Statistics
+- Total sentences: ~[X] (actual number from original research)
+- Chapters: 22 chapters
+- Identified characters: ~[Y] main characters
+- Concept mentions: ~[Z] total mentions
+
+## Usage Notes
+1. Replace with legally obtained source text
+2. Run preprocessing scripts to generate this format
+3. Ensure proper entity extraction and concept identification
+
+## Privacy and Copyright
+All original text content must be obtained through legal channels and processed according to fair use guidelines.

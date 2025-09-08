@@ -1,0 +1,30 @@
+# Sample Posthumanist Glossary
+
+This is a sample file demonstrating the structure of the posthumanist terminology dictionary. 
+The actual content has been removed due to copyright restrictions.
+
+## Format
+
+Each entry should contain:
+- Term definition
+- Theoretical context
+- Related concepts
+- Academic sources
+
+## Example Entry Format
+
+**posthumanism**: [Definition would be here]
+- Context: [Theoretical framework]
+- Related: [Other terms]
+- Sources: [Academic references]
+
+## Usage
+
+To reproduce this research:
+1. Compile your own posthumanist glossary from legally obtained sources
+2. Format according to the structure shown above
+3. Use the provided scripts to process the terminology
+
+## Note
+
+The original glossary contained approximately 152 terms related to posthumanist theory, extracted from academic literature with proper attribution.

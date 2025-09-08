@@ -1,0 +1,43 @@
+# Sample Entity Extraction Format
+
+This file shows the expected structure for extracted entities from the novel text. Original content removed due to copyright.
+
+## File Format
+CSV format with extracted named entities and their classifications.
+
+### Columns:
+- `entity`: The extracted entity text
+- `label`: Entity type (PERSON, ORG, GPE, etc.)
+- `start_pos`: Starting position in source text
+- `end_pos`: Ending position in source text
+- `chapter`: Chapter where entity appears
+- `frequency`: Number of occurrences
+
+## Example Structure
+```csv
+entity,label,start_pos,end_pos,chapter,frequency
+Rick Deckard,PERSON,245,256,1,47
+Tyrell Corporation,ORG,1023,1040,2,15
+San Francisco,GPE,567,580,1,23
+Nexus-6,PRODUCT,890,897,3,31
+```
+
+## Entity Categories Used
+- **PERSON**: Character names, human and android
+- **ORG**: Organizations, corporations
+- **GPE**: Geographical and political entities
+- **PRODUCT**: Technology, devices, models
+- **CONCEPT**: Posthumanist theoretical concepts
+
+## Processing Notes
+- Entities extracted using spaCy NLP pipeline
+- Manual verification for character consistency
+- Posthumanist concepts identified through custom model
+- Geographic locations mapped to novel's setting
+
+## Research Applications
+This entity data supports:
+1. Character network analysis
+2. Thematic concept mapping
+3. Geographic setting analysis
+4. Technology-society relationship studies
